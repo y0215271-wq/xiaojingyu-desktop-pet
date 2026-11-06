@@ -1,0 +1,1 @@
+{ "meta": { "title": "Desktop Pet Bridge", "description": "Writes agent activity (working / idle / error) to %LOCALAPPDATA%\\DshPet\\state.json so a desktop pet can react to it." } }

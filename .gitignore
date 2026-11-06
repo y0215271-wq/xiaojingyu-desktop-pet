@@ -1,0 +1,9 @@
+# 程序运行时产生的文件，不要提交
+*.log
+state.json
+debug.flag
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store

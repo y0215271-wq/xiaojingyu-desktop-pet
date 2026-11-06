@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2026 小鲸鱼桌宠 contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 素材（frames/ 目录下的 PNG）不在 MIT 范围内
+
+这些图片是本项目的角色立绘，仅授权：
+
+- 个人、非商业地使用和分享；
+- 在注明来源（本仓库 / 抖音 @小季）的前提下转发。
+
+不得：商业使用、二次打包售卖、作为商品或服务的一部分分发、用于训练商业模型。
+
+## 角色形象声明
+
+角色形象基于 DeepSeek 鲸鱼符号的粉丝二创，与 DeepSeek 官方无关联、未获官方授权。
+如权利人提出异议，本项目将立即停止分发并下架相关内容。

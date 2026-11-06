@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-pet-bridge
+      name: '@local/dsh-pet-bridge'
+      config: {}

@@ -1,0 +1,1 @@
+{ "meta": { "title": "桌宠状态桥", "description": "把 Agent 的运行状态（干活 / 空闲 / 出错）写进 %LOCALAPPDATA%\\DshPet\\state.json，桌面桌宠据此切换动作。" } }
